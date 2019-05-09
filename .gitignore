@@ -5,6 +5,8 @@
 ## Add custom entries below here.
 ##
 
+data/
+
 
 ##
 ## R Section - See https://github.com/github/gitignore/blob/master/R.gitignore
@@ -460,3 +462,4 @@ __pycache__/
 OpenCover/
 .cache/v/cache/lastfailed
 tests/.cache/v/cache/lastfailed
+
